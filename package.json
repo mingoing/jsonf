@@ -1,0 +1,20 @@
+{
+  "name": "jsonf",
+  "version": "0.1.0",
+  "description": "A JSON formatter",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wlsy/jsonf.git"
+  },
+  "keywords": [
+    "JSON",
+    "format",
+    "formatter"
+  ],
+  "author": "wlsy",
+  "license": "MIT"
+}
