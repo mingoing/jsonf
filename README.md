@@ -3,12 +3,12 @@ jsonf
 
 A json formatter, inspired by [jsonlint](http://jsonlint.com/)
 
-Install :
+Install
 =====
 
     npm install jsonf
 
-Example :
+Example
 =====
 
     var jsonf = require('jsonf');
